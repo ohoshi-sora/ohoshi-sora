@@ -16,9 +16,6 @@
 ## 🛠️ Programming Languages
 <img src="https://skillicons.dev/icons?i=python,java,c" />
 
-## ⚙️ Frameworks and Libraries
-<img src="https://skillicons.dev/icons?i=spring" />
-
 ## 🗄️ Databases and Development Tools
 <img src="https://skillicons.dev/icons?i=postgres,docker,github,vscode" />
 

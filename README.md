@@ -8,25 +8,19 @@
 - 🏆 Goals: Keep learning, and have fun!
 
 📈 **My GitHub Stats**  
-![Profile Views](https://komarev.com/ghpvc/?username=ohoshi-sora&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=ohoshi-sora)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=ohoshi-sora&layout=compact&theme=tokyonight)
 
----
 
 ## 🛠️ Programming Languages
 <img src="https://skillicons.dev/icons?i=python,java,c" />
 
----
-
 ## ⚙️ Frameworks and Libraries
-<img src="https://skillicons.dev/icons?i=vaadin,spring,streamlit" />
-
----
+<img src="https://skillicons.dev/icons?i=spring" />
 
 ## 🗄️ Databases and Development Tools
-<img src="https://skillicons.dev/icons?i=postgres,docker,proxmox,git,vscode" />
+<img src="https://skillicons.dev/icons?i=postgres,docker,github,vscode" />
 
----
 
 

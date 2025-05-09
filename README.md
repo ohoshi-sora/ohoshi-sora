@@ -10,7 +10,7 @@
 📈 **My GitHub Stats**  
 ![Profile Views](https://komarev.com/ghpvc/?username=ohoshi-sora)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=ohoshi-sora)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=ohoshi-sora&layout=compact)
 
 
 ## 🛠️ Programming Languages

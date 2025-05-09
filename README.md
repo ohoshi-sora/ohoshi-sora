@@ -7,10 +7,26 @@
 - 🌱 Research:　Research on Automatic Generation of Data Access and Visualizations Using LLM Agents
 - 🏆 Goals: Keep learning, and have fun!
 
-## 📈 GitHub統計情報
+📈 **My GitHub Stats**  
+![Profile Views](https://komarev.com/ghpvc/?username=ohoshi-sora&color=blue)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=ohoshi-sora&layout=compact&theme=tokyonight)
+
+---
+
+## 🛠️ Programming Languages
+<img src="https://skillicons.dev/icons?i=python,java,c" />
+
+---
+
+## ⚙️ Frameworks and Libraries
+<img src="https://skillicons.dev/icons?i=vaadin,spring,streamlit" />
+
+---
+
+## 🗄️ Databases and Development Tools
+<img src="https://skillicons.dev/icons?i=postgres,docker,proxmox,git,vscode" />
+
+---
 
 
-![プロフィール閲覧数](https://komarev.com/ghpvc/?username=ohoshi-sora&color=blue)
-
-![](https://github-readme-stats.vercel.app/api/top-langs?username=ohoshi-sora)
-![](https://skillicons.dev/icons?i=html,css,js,typescript,python,php)
